@@ -5,6 +5,7 @@ using namespace std;
 #define MAXROWS 10
 #define MAXCOLS 10
 #define LOG
+//hell
 class equilizer
 {
 private:
