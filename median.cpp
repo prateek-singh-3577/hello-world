@@ -1,3 +1,4 @@
+/*sample code*/
 #include <iostream>
 using namespace std;
 #define MAXN 1000
