@@ -6,6 +6,8 @@ using namespace std;
 #define MAXCOLS 10
 #define LOG
 //hell
+
+
 class equilizer
 {
 private:
